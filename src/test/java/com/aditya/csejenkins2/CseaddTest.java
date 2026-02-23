@@ -9,7 +9,7 @@ Cseadd c = new Cseadd();
 	@Test
 	void csetest(){
 		int result = c.add(2 ,3);
-		assertEquals(4, result);
+		assertEquals(6, result);
 	}
 	@Test
 	void csetest1(){
